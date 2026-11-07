@@ -1,0 +1,15 @@
+ERENIUM DOCK KULLANIM LİSANSI
+
+Telif hakkı (c) 2026 Erenium - www.sanatsende.com.tr
+Tüm hakları saklıdır.
+
+1. Kullanım: Bu yazılım, kişisel ve ticari kullanım için ücretsizdir.
+
+2. Paylaşım: Yazılım, değiştirilmeden ve bu lisans dosyasıyla birlikte paylaşılabilir.
+   Satılamaz, ücret karşılığı dağıtılamaz.
+
+3. Kısıtlamalar: Yazılım değiştirilemez, kaynak koduna dönüştürülemez, başka bir ad
+   altında yayınlanamaz.
+
+4. Garanti yoktur: Yazılım "olduğu gibi" sunulur. Kullanımdan doğabilecek veri kaybı
+   veya başka zararlardan yazılımın sahibi sorumlu tutulamaz.
