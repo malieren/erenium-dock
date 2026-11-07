@@ -6,9 +6,9 @@ Windows için ekran kenarında duran, sekmeli program şeridi. Programlarınız�
 
 **[⬇ Son sürümü indir](https://github.com/malieren/erenium-dock/releases/latest)**
 
-![Erenium Dock şeridi](ekran/dock.png)
+![Erenium Dock şeridi](dock.png)
 
-![Erenium Dock Management](ekran/management.png)
+![Erenium Dock Management](management.png)
 
 ## Özellikler
 
